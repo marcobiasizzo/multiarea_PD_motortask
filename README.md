@@ -19,5 +19,5 @@ The research was carried out at NearLab (Politecnico di Milano), in collaboratio
   
   
 Page created for a poster of the BASSES Workshop in Rome, 13-15 June 2022.  
-Title: A multiscale network model to investigate the basal ganglia and cerebellum interplay in Parkinson’s Disease  
+Title: **A multiscale network model to investigate the basal ganglia and cerebellum interplay in Parkinson’s Disease**  
 Authors: Marco Biasizzo, Francesco Jamal Sheiban, Benedetta Gambosi, Alberto Mazzoni, Alessandra Pedrocchi
